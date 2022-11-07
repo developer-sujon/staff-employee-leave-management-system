@@ -1,0 +1,36 @@
+{
+  "name": "staff-employee-leave-management-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/developer-sujon/protfolio-sujon.git",
+  "author": "developer-sujon <developersujon@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "server": "nodemon index",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"yarn server\" \"yarn client\""
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^6.6.0",
+    "express-validator": "^6.14.2",
+    "helmet": "^6.0.0",
+    "hpp": "^0.2.3",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.6.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.7.8",
+    "xss-clean": "^0.1.1"
+  },
+  "devDependencies": {
+    "concurrently": "^7.4.0",
+    "nodemon": "^2.0.19"
+  }
+}

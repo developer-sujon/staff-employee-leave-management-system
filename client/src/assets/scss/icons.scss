@@ -1,0 +1,26 @@
+/*
+Template Name: Glossy - Responsive Bootstrap 5 Admin Dashboard
+Version: 1.6.0
+Author: CoderThemes
+Email: support@Glossyit.com
+File: Icons Css File
+*/
+
+// Icons
+@import "custom/plugins/icons";
+.react-tel-input .form-control {
+  width: 100% !important;
+}
+
+.invalid-feedback {
+  display: block;
+}
+
+body[data-layout-color=dark] {
+  background: #343a40;
+}
+.react-code-input {
+  text-align: center !important;
+  margin: 10px 0 !important;
+  display: block !important;
+}

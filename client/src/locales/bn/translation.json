@@ -1,0 +1,17 @@
+{
+  "Dashboard": "ড্যাশবোর্ড",
+  "Department": "বিভাগ",
+  "New Department": "নতুন বিভাগ",
+  "Department List": "বিভাগের তালিকা",
+  "Leave Type": "ছুটির ধরণ",
+  "Leave Type List": "ছুটির ধরণ তালিকা",
+  "Employee": "কর্মচারী",
+  "New Employee": "নতুন কর্মচারী",
+  "Employee List": "কর্মচারী তালিকা",
+  "Leave": "ছুটি",
+  "New Leave": "নতুন ছুটি",
+  "Leave List": "ছুটির তালিকা",
+  "Leave List Pending": "মুলতুবী ছুটির তালিকা",
+  "Leave List Approved": "অনুমোদিত  ছুটির তালিকা",
+  "Leave List Rejected": "প্রত্যাখ্যাত ছুটির তালিকা"
+}
